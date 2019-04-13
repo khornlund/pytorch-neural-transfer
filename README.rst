@@ -1,7 +1,7 @@
-====
-nrtf
-====
-PyTorch deep learning project made easy.
+=======================
+pytorch-neural-transfer
+=======================
+https://pytorch.org/tutorials/advanced/neural_style_tutorial.html
 
 .. contents:: Table of Contents
    :depth: 2

@@ -19,6 +19,7 @@ requirements = [
     'click',
     'pytest',
     'jupyter',
+    'Pillow',
     'tensorboard',
     'tensorboardX'
 ]
